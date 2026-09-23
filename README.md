@@ -45,7 +45,7 @@
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🤖 AI / ML
