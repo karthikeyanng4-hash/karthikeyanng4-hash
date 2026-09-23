@@ -27,3 +27,35 @@
 - 🌐 Full-Stack Web Development
 - ⚡ JavaScript and React
 - ☁️ Backend and Cloud Technologies
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,javascript,sql" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
